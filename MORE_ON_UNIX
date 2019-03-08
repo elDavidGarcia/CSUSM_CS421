@@ -1,0 +1,32 @@
+
+  More on UNIX if you are interested in being more productive....
+
+1.  never use control-Z. It puts your process into background mode.
+    To get it back, you have to say fg.
+
+2.  users: If you see yourself logged in twice, you had forgotten to logout.
+    Do ps -u to find your process IDs.  Do kill -9 put-ID-here  to 
+    kill the idle process.   
+
+3.  command >  file  sends the result of the command to the file
+    command < file   takes the input from the file 
+    e.g. ./a.out < myinput
+
+4.  command1 | command2   pipes command1 through command2
+    e.g.  ls -l | more    
+
+5.  create a file and put a sequence of commands into it.
+    Then do source put-file-name-here  to do all the commands.
+    e.g. source doit    where doit contains
+                        g++ a.cpp b.cpp c.cpp 
+                        ./a.out  
+
+6.  grep "words" files-here   to look for the words in the files
+    e.g. grep "due date"  HW/*
+
+7.  use wildcard:   e.g.  ls *.cpp   
+
+8.  chmod who+what files
+    e.g.  chmod uog+rwx *   means you, others, and group will all be able
+                            to read/write/execute all files
+

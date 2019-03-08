@@ -1,0 +1,5 @@
+From <0> on a goes to <01>
+From <01> on a goes to <01>
+From <01> on b goes to <12>
+From <12> on b goes to <12>
+Any state with the original final state number is final

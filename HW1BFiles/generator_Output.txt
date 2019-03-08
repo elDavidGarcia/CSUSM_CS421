@@ -1,0 +1,49 @@
+Script started on Fri 09 Feb 2018 10:47:50 AM PST
+]0;garci390@empress:~/cs421/HW1BFiles[?1034h[garci390@empress HW1BFiles]$ g++ generator.cpp queue.cpp
+]0;garci390@empress:~/cs421/HW1BFiles[garci390@empress HW1BFiles]$ ./a.out
+0
+1
+00
+01
+10
+11
+000
+001
+010
+011
+100
+101
+110
+111
+0000
+0001
+0010
+0011
+0100
+0101
+0110
+0111
+1000
+1001
+1010
+1011
+1100
+1101
+1110
+1111
+00000
+00001
+00010
+00011
+00100
+00101
+00110
+00111
+01000
+01001
+
+**Cannot add anymore, queue is full**
+]0;garci390@empress:~/cs421/HW1BFiles[garci390@empress HW1BFiles]$ exit
+exit
+
+Script done on Fri 09 Feb 2018 10:48:20 AM PST

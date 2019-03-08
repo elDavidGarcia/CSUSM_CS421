@@ -1,0 +1,6 @@
+
+In the nfa-e.txt file, you must put the highest state number first.
+Then on the subsequent lines, put Trs of the NFA:
+state char state state .... -1
+
+where e stands for epsilon 

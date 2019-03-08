@@ -1,0 +1,216 @@
+Script started on Thu 01 Mar 2018 10:10:32 PM PST
+]0;garci390@empress:~/cs421/HW2BFiles[?1034h[garci390@empress HW2BFiles]$ g++ fa.cpp
+]0;garci390@empress:~/cs421/HW2BFiles[garci390@empress HW2BFiles]$ ./a.out
+Enter the input file name:fain_mytoken.txt
+
+
+.....Scanner was called...
+Word is: ab_2a
+
+Trying ident token machine
+(Current state: 0) (Character: a)
+(Current state: 1) (Character: b)
+(Current state: 1) (Character: _)
+(Current state: 1) (Character: 2)
+(Current state: 1) (Character: a)
+
+Type is:IDENT
+
+
+.....Scanner was called...
+Word is: a_b_2_a
+
+Trying ident token machine
+(Current state: 0) (Character: a)
+(Current state: 1) (Character: _)
+(Current state: 1) (Character: b)
+(Current state: 1) (Character: _)
+(Current state: 1) (Character: 2)
+(Current state: 1) (Character: _)
+(Current state: 1) (Character: a)
+
+Type is:IDENT
+
+
+.....Scanner was called...
+Word is: .23
+
+Trying ident token machine
+(Current state: 0) (Character: .)
+I am stuck in state 0
+
+Trying real token token machine
+(Current state: 0) (Character: .)
+(Current state: 1) (Character: 2)
+(Current state: 2) (Character: 3)
+
+Type is:REAL
+
+
+.....Scanner was called...
+Word is: 23.3
+
+Trying ident token machine
+(Current state: 0) (Character: 2)
+I am stuck in state 0
+
+Trying real token token machine
+(Current state: 0) (Character: 2)
+(Current state: 0) (Character: 3)
+(Current state: 0) (Character: .)
+(Current state: 1) (Character: 3)
+
+Type is:REAL
+
+
+.....Scanner was called...
+Word is: 23
+
+Trying ident token machine
+(Current state: 0) (Character: 2)
+I am stuck in state 0
+
+Trying real token token machine
+(Current state: 0) (Character: 2)
+(Current state: 0) (Character: 3)
+
+Trying integer token token machine
+(Current state: 0) (Character: 2)
+(Current state: 1) (Character: 3)
+
+Type is:INT
+
+
+.....Scanner was called...
+Word is: ab&c
+
+Trying ident token machine
+(Current state: 0) (Character: a)
+(Current state: 1) (Character: b)
+(Current state: 1) (Character: &)
+I am stuck in state 1
+
+Trying real token token machine
+(Current state: 0) (Character: a)
+I am stuck in state 0
+
+Trying integer token token machine
+(Current state: 0) (Character: a)
+I am stuck in state 0
+Lexical Error: The string is not in my language
+
+Type is:ERROR
+
+
+.....Scanner was called...
+Word is: 23.6
+
+Trying ident token machine
+(Current state: 0) (Character: 2)
+I am stuck in state 0
+
+Trying real token token machine
+(Current state: 0) (Character: 2)
+(Current state: 0) (Character: 3)
+(Current state: 0) (Character: .)
+(Current state: 1) (Character: 6)
+I am stuck in state 1
+
+Trying integer token token machine
+(Current state: 0) (Character: 2)
+(Current state: 1) (Character: 3)
+(Current state: 1) (Character: .)
+I am stuck in state 1
+Lexical Error: The string is not in my language
+
+Type is:ERROR
+
+
+.....Scanner was called...
+Word is: 2a3
+
+Trying ident token machine
+(Current state: 0) (Character: 2)
+I am stuck in state 0
+
+Trying real token token machine
+(Current state: 0) (Character: 2)
+(Current state: 0) (Character: a)
+I am stuck in state 0
+
+Trying integer token token machine
+(Current state: 0) (Character: 2)
+(Current state: 1) (Character: a)
+I am stuck in state 1
+Lexical Error: The string is not in my language
+
+Type is:ERROR
+
+
+.....Scanner was called...
+Word is: 22..2
+
+Trying ident token machine
+(Current state: 0) (Character: 2)
+I am stuck in state 0
+
+Trying real token token machine
+(Current state: 0) (Character: 2)
+(Current state: 0) (Character: 2)
+(Current state: 0) (Character: .)
+(Current state: 1) (Character: .)
+I am stuck in state 1
+
+Trying integer token token machine
+(Current state: 0) (Character: 2)
+(Current state: 1) (Character: 2)
+(Current state: 1) (Character: .)
+I am stuck in state 1
+Lexical Error: The string is not in my language
+
+Type is:ERROR
+
+
+.....Scanner was called...
+Word is: 23.
+
+Trying ident token machine
+(Current state: 0) (Character: 2)
+I am stuck in state 0
+
+Trying real token token machine
+(Current state: 0) (Character: 2)
+(Current state: 0) (Character: 3)
+(Current state: 0) (Character: .)
+
+Trying integer token token machine
+(Current state: 0) (Character: 2)
+(Current state: 1) (Character: 3)
+(Current state: 1) (Character: .)
+I am stuck in state 1
+Lexical Error: The string is not in my language
+
+Type is:ERROR
+
+
+.....Scanner was called...
+Word is: EOF
+
+Trying ident token machine
+(Current state: 0) (Character: E)
+I am stuck in state 0
+
+Trying real token token machine
+(Current state: 0) (Character: E)
+I am stuck in state 0
+
+Trying integer token token machine
+(Current state: 0) (Character: E)
+I am stuck in state 0
+Lexical Error: The string is not in my language
+
+**End of file was reached**
+]0;garci390@empress:~/cs421/HW2BFiles[garci390@empress HW2BFiles]$ exit
+exit
+
+Script done on Thu 01 Mar 2018 10:10:57 PM PST

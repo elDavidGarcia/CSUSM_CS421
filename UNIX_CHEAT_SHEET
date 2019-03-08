@@ -1,0 +1,53 @@
+
+Emacs Cheat Sheet:
+--------------------
+emacs <filename here> to enter the editor
+
+control-A  go to the beginning of line
+control-E  go to the end of the line	
+control-D  to cut a character
+control-K  to cut a line (keep on going to cut multiple lines)
+control-Y  to paste lines
+control-S  to search
+control-R  to search backwards
+control-G  to get out of a command
+
+esc then < go to the beginning of the file
+esc then > go to the end of the file
+esc then x then replace-str   to find and replace all  
+
+control-X 2 to split the editor screen in half
+control-X control-F to display another file in one of the halves 
+control-O  to go to the other half
+
+TAB on each line to indent C++ programs
+
+control-X control-C to save and exit
+
+files with ~ are the previous versions
+
+UNIX Cheet Sheet:
+--------------------
+ls     to see what files and directories you have
+ls -l  to see protection on the files and directories (rwx)
+more <filename here>  to display file content
+
+cd                 to go to your home directory
+cd ..              to go up a level
+cd <dirname here>  to enter a directory
+mkdir <dirname here>  to create a directory
+pwd	           to see what directory you are in
+
+cp <filename> <filename>  to copy a file
+mv <filename> <filename>  to rename a file or move it
+rm <filename>             to delete a file 
+
+Note that <filename> can be replaced by a path to the filename
+e.g. HWPrograms/HW1/client.cpp  
+
+control-C          to get out of a command
+
+chmod u+x <filename>   to make your file executable
+ 
+alpine	            to enter the email program
+  

@@ -1,0 +1,6 @@
+
+In the nfa.txt file, you must put the highest state number first.
+Then on the subsequent lines, put the Trs of the NFA:
+state char state state .... -1
+
+The output goes to dfa.txt

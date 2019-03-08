@@ -1,0 +1,13 @@
+
+These files are for programming assignments in cs421.
+
+Copy them into your account on empress.csusm.edu
+
+You must use them to do all programming assignments.  No exceptions.
+
+You must compile them using g++ and run them on empress.csusm.edu
+
+Your test result recording must include the lines for compiling
+the files (i.e. g++ ....) or I will not grade them.
+
+

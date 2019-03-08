@@ -1,0 +1,26 @@
+Use this list to create the reserved words list in your scanner.
+
+ word:	            english:			token type:
+  
+  masu						VERB
+  masen						VERBNEG
+  mashita                	 		VERBPAST
+  masendeshita            			VERBPASTNEG
+  desu                    			IS 
+  deshita                 			WAS 
+  o                        			OBJECT
+  wa                       			SUBJECT
+  ni                       			DESTINATION
+
+  watashi	I/me				PRONOUN
+  anata		you				PRONOUN
+  kare		he/him				PRONOUN   
+  kanojo	she/her				PRONOUN  
+  sore      	it				PRONOUN
+  mata          Also                           	CONNECTOR
+  soshite       Then                   		CONNECTOR
+  shikashi	However				CONNECTOR
+  dakara	Therefore			CONNECTOR
+
+  eofm						EOFM 
+

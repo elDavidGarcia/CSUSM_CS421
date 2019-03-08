@@ -1,0 +1,15 @@
+1.	indicate who did what by giving names (see above **):
+o	Member A tasks (NFA to DFA) - who: Kyle Roberts    
+o	Member B tasks (DFA functions)- who: Damon Prince   
+o	Member C tasks (scanner())- who: David A. Garcia
+
+       If the member did not fully contribute to the assigned part, do not list his/her name!!!!!
+
+2.     Whether each person came to the meeting.
+       Yes.
+3.     Whether you have included all the required comments. (RE and Programmer)
+       Yes.
+4.     Whether your program works on scannertest1 and scannertest2.
+       Works for both of them.
+5.     Any other remarks.
+       None.

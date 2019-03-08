@@ -1,0 +1,266 @@
+Script started on Tue 15 May 2018 05:48:57 PM PDT
+]0;garci390@empress:~/cs421/ScannerFiles[?1034h[garci390@empress ScannerFiles]$ ./g7scanner.out
+Enter the input file name: scannertest2
+
+Type is: WORD1
+Word is: daigaku
+
+Lexical Error: college is not a valid token
+Type is: ERROR
+Word is: college
+
+Type is: WORD1
+Word is: kurasu
+
+Lexical Error: class is not a valid token
+Type is: ERROR
+Word is: class
+
+Type is: WORD1
+Word is: hon
+
+Lexical Error: book is not a valid token
+Type is: ERROR
+Word is: book
+
+Type is: WORD1
+Word is: tesuto
+
+Lexical Error: test is not a valid token
+Type is: ERROR
+Word is: test
+
+Type is: WORD1
+Word is: ie
+
+Lexical Error: home* is not a valid token
+Type is: ERROR
+Word is: home*
+
+Type is: WORD1
+Word is: isu
+
+Lexical Error: chair is not a valid token
+Type is: ERROR
+Word is: chair
+
+Type is: WORD1
+Word is: seito
+
+Lexical Error: student is not a valid token
+Type is: ERROR
+Word is: student
+
+Type is: WORD1
+Word is: sensei
+
+Lexical Error: teacher is not a valid token
+Type is: ERROR
+Word is: teacher
+
+Type is: WORD1
+Word is: tomodachi
+
+Lexical Error: friend is not a valid token
+Type is: ERROR
+Word is: friend
+
+Type is: WORD1
+Word is: jidoosha
+
+Lexical Error: car is not a valid token
+Type is: ERROR
+Word is: car
+
+Type is: WORD1
+Word is: gyuunyuu
+
+Lexical Error: milk is not a valid token
+Type is: ERROR
+Word is: milk
+
+Type is: WORD1
+Word is: sukiyaki
+
+Type is: WORD1
+Word is: tenpura
+
+Type is: WORD1
+Word is: sushi
+
+Type is: WORD1
+Word is: biiru
+
+Lexical Error: beer is not a valid token
+Type is: ERROR
+Word is: beer
+
+Type is: WORD1
+Word is: sake
+
+Type is: WORD1
+Word is: tokyo
+
+Type is: WORD1
+Word is: kyuushuu
+
+Lexical Error: Osaka is not a valid token
+Type is: ERROR
+Word is: Osaka
+
+Type is: WORD1
+Word is: choucho
+
+Lexical Error: butterfly is not a valid token
+Type is: ERROR
+Word is: butterfly
+
+Type is: WORD1
+Word is: an
+
+Type is: WORD1
+Word is: idea
+
+Type is: WORD1
+Word is: yasashii
+
+Lexical Error: easy is not a valid token
+Type is: ERROR
+Word is: easy
+
+Type is: WORD1
+Word is: muzukashii
+
+Lexical Error: difficult is not a valid token
+Type is: ERROR
+Word is: difficult
+
+Type is: WORD1
+Word is: ureshii
+
+Lexical Error: pleased is not a valid token
+Type is: ERROR
+Word is: pleased
+
+Type is: WORD1
+Word is: shiawase
+
+Lexical Error: happy is not a valid token
+Type is: ERROR
+Word is: happy
+
+Type is: WORD1
+Word is: kanashii
+
+Lexical Error: sad is not a valid token
+Type is: ERROR
+Word is: sad
+
+Type is: WORD1
+Word is: omoi
+
+Lexical Error: heavy is not a valid token
+Type is: ERROR
+Word is: heavy
+
+Type is: WORD1
+Word is: oishii
+
+Lexical Error: delicious is not a valid token
+Type is: ERROR
+Word is: delicious
+
+Type is: WORD1
+Word is: tennen
+
+Lexical Error: natural is not a valid token
+Type is: ERROR
+Word is: natural
+
+Type is: WORD2
+Word is: nakI
+
+Lexical Error: cry is not a valid token
+Type is: ERROR
+Word is: cry
+
+Type is: WORD2
+Word is: ikI
+
+Lexical Error: go* is not a valid token
+Type is: ERROR
+Word is: go*
+
+Type is: WORD2
+Word is: tabE
+
+Lexical Error: eat is not a valid token
+Type is: ERROR
+Word is: eat
+
+Type is: WORD2
+Word is: ukE
+
+Lexical Error: take* is not a valid token
+Type is: ERROR
+Word is: take*
+
+Type is: WORD2
+Word is: kakI
+
+Lexical Error: write is not a valid token
+Type is: ERROR
+Word is: write
+
+Type is: WORD2
+Word is: yomI
+
+Lexical Error: read is not a valid token
+Type is: ERROR
+Word is: read
+
+Type is: WORD2
+Word is: nomI
+
+Lexical Error: drink is not a valid token
+Type is: ERROR
+Word is: drink
+
+Type is: WORD2
+Word is: agE
+
+Lexical Error: give is not a valid token
+Type is: ERROR
+Word is: give
+
+Type is: WORD2
+Word is: moraI
+
+Lexical Error: receive is not a valid token
+Type is: ERROR
+Word is: receive
+
+Type is: WORD2
+Word is: butsI
+
+Lexical Error: hit is not a valid token
+Type is: ERROR
+Word is: hit
+
+Type is: WORD2
+Word is: kerI
+
+Lexical Error: kick is not a valid token
+Type is: ERROR
+Word is: kick
+
+Type is: WORD2
+Word is: shaberI
+
+Lexical Error: talk is not a valid token
+Type is: ERROR
+Word is: talk
+]0;garci390@empress:~/cs421/ScannerFiles[garci390@empress ScannerFiles]$ exit
+exit
+
+Script done on Tue 15 May 2018 05:49:21 PM PDT

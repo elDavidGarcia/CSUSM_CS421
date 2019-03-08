@@ -1,0 +1,35 @@
+
+TO COMPILE:
+g++ <list cpp files only>   
+Never never compile .h files.
+
+TO RUN:
+./a.out
+
+TO RECORD TEST RESULTS:
+/cs/recordhw <put a brand new file name here e.g. result.txt>
+
+compile here
+run here
+
+exit
+
+You can download the created script file to submit to Cougar Courses. 
+
+--------------------------------------
+For project executable submission, do the following one file at a time:
+
+/cs/submitIt  G#   filename
+
+e.g.
+
+/cs/submitIt  G3   group3scanner.out
+/cs/submitIt  G3   scannerWork.txt
+-------------------------------------------
+
+Note that to use exit(1), you need to include <stdlib.h>
+
+
+
+
+

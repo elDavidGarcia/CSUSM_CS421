@@ -1,0 +1,17 @@
+
+In re.txt, you must type all the arrow labels you plan to use, one per line. 
+e.g.
+a
+b
+c
+Component machines are created for these.
+
+nfa-e.txt will be the output showing the combined machines.
+
+
+
+Limitation:  It does not allow you to do (a | a)  or  (a | a*)  
+It can be overcome by always making a copy of the component machine first.
+ 
+  
+

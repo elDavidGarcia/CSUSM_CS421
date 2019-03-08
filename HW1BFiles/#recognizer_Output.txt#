@@ -1,0 +1,24 @@
+xcScript started on Fri 09 Feb 2018 10:35:05 AM PST
+]0;garci390@empress:~/cs421/HW1BFiles[?1034h[garci390@empress HW1BFiles]$ g++ recognizer.cpp
+]0;garci390@empress:~/cs421/HW1BFiles[garci390@empress HW1BFiles]$ ./a.out
+Enter a string in binary: 0
+YES IN L
+]0;garci390@empress:~/cs421/HW1BFiles[garci390@empress HW1BFiles]$ ./a.out
+Enter a string in binary: 1
+YES IN L
+]0;garci390@empress:~/cs421/HW1BFiles[garci390@empress HW1BFiles]$ ./a.out
+Enter a string in binary: 00110
+YES IN L
+]0;garci390@empress:~/cs421/HW1BFiles[garci390@empress HW1BFiles]$ ./a.out
+Enter a string in binary: 2
+NO NOT IN L
+]0;garci390@empress:~/cs421/HW1BFiles[garci390@empress HW1BFiles]$ ./a.io[K[Kout
+Enter a string in binary: 02
+NO NOT IN L
+]0;garci390@empress:~/cs421/HW1BFiles[garci390@empress HW1BFiles]$ ./a.out
+Enter a string in binary: 31
+NO NOT IN L
+]0;garci390@empress:~/cs421/HW1BFiles[garci390@empress HW1BFiles]$ exit
+exit
+
+Script done on Fri 09 Feb 2018 10:37:04 AM PST

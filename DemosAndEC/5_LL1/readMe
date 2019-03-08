@@ -1,0 +1,7 @@
+
+  This ll1 parser works for non terminals S, A amd B
+  and terminals 0 and 1
+
+  This does not  require $ at the end of the input 
+
+  See rules for the input file
